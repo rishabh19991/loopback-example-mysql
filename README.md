@@ -1,5 +1,7 @@
 # loopback-mysql-example
 
+## **NOTE**: The project has been deprecated. Please check out [https://github.com/strongloop-community/loopback-example-database](https://github.com/strongloop-community/loopback-example-database).
+
 This project contains examples to demonstrate [LoopBack MySQL connector](https://github.com/strongloop/loopback-connector-mysql).
 The MySQL connector module allows LoopBack applications to interact with MySQL databases for the data models, such as
 Account and Catalog.
